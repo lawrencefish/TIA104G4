@@ -4,4 +4,5 @@ public class MemberVO {
 	private Integer memId;
 	private String memName;
 	
+	
 }
