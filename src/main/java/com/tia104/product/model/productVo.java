@@ -1,6 +1,6 @@
 package com.tia104.product.model;
 
-public class productVO {
+public class productVo {
 	private Integer prdId;
 	private String prdName;
 	
