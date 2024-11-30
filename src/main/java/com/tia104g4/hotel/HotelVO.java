@@ -11,11 +11,5 @@ public class HotelVO {
 	public void setHotelID(Integer hotelID) {
 		this.hotelID = hotelID;
 	}
-	public String getHotelLoc() {
-		return hotelLoc;
-	}
-	public void setHotelLoc(String hotelLoc) {
-		this.hotelLoc = hotelLoc;
-	}
 	
 }
