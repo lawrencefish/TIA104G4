@@ -5,5 +5,6 @@ public class haha {
 		System.out.println("HAHA");
 		
 		/////////123
+
 	}
 }
